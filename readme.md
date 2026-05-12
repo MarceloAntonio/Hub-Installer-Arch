@@ -37,7 +37,7 @@ The project follows the **KISS (Keep It Simple, Stupid)** philosophy, aiming for
 ### Option 1: Quick install (recommended)
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/MarceloAntonio/LazyArch/refs/heads/main/Install.sh | bash
+curl -sSL https://raw.githubusercontent.com/MarceloAntonio/LazyArch_old/refs/heads/main/Install.sh | bash
 ````
 
 ---
@@ -47,13 +47,13 @@ curl -sSL https://raw.githubusercontent.com/MarceloAntonio/LazyArch/refs/heads/m
 #### 1. Clone the repository
 
 ```bash
-git clone https://github.com/MarceloAntonio/LazyArch
+git clone https://github.com/MarceloAntonio/LazyArch_old
 ```
 
 #### 2. Enter the project folder
 
 ```bash
-cd LazyArch
+cd LazyArch_old
 ```
 
 #### 3. Make the installer executable
